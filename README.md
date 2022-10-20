@@ -1,4 +1,4 @@
-Litecoin integration/staging tree
+Recyclecoin integration/staging tree
 ================================
 
 http://www.litecoin.org
@@ -7,7 +7,7 @@ Copyright (c) 2009-2014 Bitcoin Developers
 Copyright (c) 2011-2014 Litecoin Developers
 Copyright (c) 2022 Recyclecoin Developers
 
-What is Litecoin?
+What is Recyclecoin?
 ----------------
 
 Recyclecoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
